@@ -1,6 +1,6 @@
 # Heart Failure Prediction
 
-Includes EDA, Visualisation and ML Modelling of **[Heart Failure]([https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction])** data by Kaggle.
+Includes EDA, Visualisation and Machine Learning Modelling of **[Heart Failure](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)** data by Kaggle.
 
 ## Contact
 
